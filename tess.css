@@ -1,0 +1,13 @@
+.dss{
+    background-color: white;
+    color: #0057DA;;
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+
+
+.dss:hover {
+      background-color:#e5f3ff;
+      transition: 0.7s;
+  }

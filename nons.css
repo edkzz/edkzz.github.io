@@ -1,0 +1,20 @@
+.butt{
+    background-color: white;
+    color: #0057DA;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    border-top: solid #aba7a76b 1px;
+    border-bottom: solid #aba7a76b 1px;
+    border-left: none;
+    padding: 8px 5px 8px 10px;
+    height: 55px;
+    border-right: solid #aba7a76b 1px;
+}
+
+
+.butt:hover {
+      background-color:#e5f3ff;
+      transition: 0.7s;
+  }
+

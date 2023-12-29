@@ -1,0 +1,248 @@
+.grid-all{
+    display: flex;
+
+}
+
+.grid-one img{
+    width: 100px;
+}
+
+.grid-one{
+    display:flex;
+    flex-direction: column;
+    border: solid black 2px;
+    width:20%;
+    height: 245px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+
+
+
+
+.grid-one p{    
+padding: 5px;
+    padding-left: 12px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.grid-two img{
+    width: 100px;
+}
+
+.grid-two{
+    display:flex;
+    flex-direction: column;
+    border: solid black 2px;
+    width:20%;
+    height: 245px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+
+
+
+
+.grid-two p{    
+padding: 5px;
+    padding-left: 12px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.grid-three img{
+    width: 100px;
+}
+
+.grid-three{
+    display:flex;
+    flex-direction: column;
+    border: solid black 2px;
+    width:20%;
+    height: 245px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+
+
+
+
+.grid-three p{    
+padding: 5px;
+    padding-left: 12px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.grid-four img{
+    width: 100px;
+}
+
+.grid-four{
+    display:flex;
+    flex-direction: column;
+    border: solid black 2px;
+    width:20%;
+    height: 245px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+
+
+
+
+.grid-four p{    
+padding: 5px;
+    padding-left: 12px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.grid-five img{
+    width: 100px;
+}
+
+.grid-five{
+    display:flex;
+    flex-direction: column;
+    border: solid black 2px;
+    width:20%;
+    height: 245px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+
+
+
+
+.grid-five p{    
+padding: 5px;
+    padding-left: 12px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

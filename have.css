@@ -1,0 +1,47 @@
+#buta{
+    
+    
+    background-color: blue;
+    color: white;
+}
+
+
+.but_link_a{
+    
+    color: white;
+    text-decoration: none;
+}
+
+
+.but_link_b{
+    
+    color: #0057DA;
+    text-decoration: none;
+}
+
+
+.two-block{
+        display: flex;
+ flex-direction: column;
+
+}
+
+.direcs{
+    display: flex;
+    gap:30px;
+}
+
+
+.nameqq-list{
+        font-family: 'Fira Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.nameqq{
+        font-family: 'Fira Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.this-all{display: flex;
+        gap: 55px;
+}

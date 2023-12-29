@@ -1,0 +1,155 @@
+body{margin: 0;}
+
+.intro{
+    background-image: url(school.jpg);background-size: cover;width: 20%;}
+
+
+.fon-intro{ display: flex;background-size: cover;height: 100%;width:100%;
+background: rgb(2,0,36);
+background: linear-gradient(252deg, rgb(255 104 78 / 48%) 0%, rgb(174 174 215) 35%, rgba(0,212,255,1) 100%);
+}
+
+.fon-intro h1{
+    
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+ 
+
+/*INTRO/ИНТРО*/
+
+
+
+
+.theree-block{
+      display: flex;
+    justify-content: space-between;
+        gap: 10px;
+    
+}
+  
+
+
+
+
+
+
+.alls{
+    display: flex;
+        font-family: 'Fira Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+    flex-direction: column;
+        width: 160px;
+
+}
+    
+
+.one-block{
+        display: flex;
+    flex-direction: column;
+        width: 13%;
+}
+
+
+.namm{
+    font-size: 15px;
+        font-family: 'Fira Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+
+.alled_blocks-for_news{
+    display: flex;
+    gap:4px;
+    border-bottom: 2px solid #0057DA;
+}
+
+
+.direc img{
+        width: 100%;
+}
+
+
+
+.one_block button{
+    border-radius: 8px;
+}
+
+.two_block button{
+    border-radius: 8px;
+}
+
+.three_block button{
+    border-radius: 8px;
+}
+
+.two-block{
+        display: flex;
+    flex-direction: column;
+
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+..ddj {
+    margin: 0 0 8px;
+    padding: 0 0 2px;
+}
+
+
+
+
+.ddj a.main {
+    width: 13px;
+    height: 14px;
+    display: inline-block;
+    vertical-align: top;
+    top: 2px;
+    left: 1px;
+    background: url(icos-v2.png) -20px -20px no-repeat;
+}
+
+
+
+.ddj li {
+    min-height: 17px;
+    padding: 0 30px 0 0;
+
+}
+
+
+.ddj li:first-child i {
+    display: block;
+}
+
+
+.ddj a {
+    font: italic 11px/11px Arial;
+    color: #555;
+}
+

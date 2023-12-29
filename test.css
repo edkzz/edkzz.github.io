@@ -1,0 +1,24 @@
+.all{display: flex;}
+
+.name{display: flex;
+    gap: 5px;
+    border-bottom: solid #aba7a76b 1px;
+    max-height: 86px;
+    min-height: 86px;
+    border-left: solid #aba7a76b 1px;}
+
+.ans{    display: flex;
+    gap: 5px;
+    border-bottom: solid #aba7a76b 1px;
+    max-height: 86px;
+    min-height: 86px;
+    border-right: solid #aba7a76b 1px;}
+.answer-name{border-bottom: solid #aba7a76b 1px;}
+.answer-name{border-top: solid #aba7a76b 1px;}
+.list-name{border-bottom: solid #aba7a76b 1px;}
+.list-name{border-top: solid #aba7a76b 1px;}
+
+.name p{ font-family: 'Fira Sans', sans-serif;
+font-family: 'Raleway', sans-serif;}
+.ans p{ font-family: 'Fira Sans', sans-serif;
+font-family: 'Raleway', sans-serif;}
